@@ -5,3 +5,4 @@ Dinazor.io is founded to bring solutions to legacy business processes and to inc
 - 🏡 [Homepage](https://www.dinazor.io/)
 - 🌴 [Holidays.rest](https://www.holidays.rest/)
 - ⚡️ [Latencytest.me](https://www.latencytest.me/)
+- 🔐 [Konfidant.app](https://www.konfidant.app)
