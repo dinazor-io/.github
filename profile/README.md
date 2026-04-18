@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
+Dinazor.io is founded to bring solutions to legacy business processes and to increase agility of business customers with digital transformation. We provide various digital services and solutions to businesses that need scalability, high-availability and cost-effectiveness.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Homepage](https://www.dinazor.io/)
+- [Holidays.rest](https://www.holidays.rest/)
+- [Latencytest.me](https://www.latencytest.me/)
